@@ -128,6 +128,7 @@ for course in catalogue:
     print(course)
 
 ####IDEA OVER
+####Testing changes 
 
 def open_file(file_name):
   # If file is a .txt
